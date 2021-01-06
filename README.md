@@ -50,7 +50,7 @@ The following is a list of items (prioritized from most important to least impor
 * An event can belong to a single provider, and has capacity limit
 * User or Admin should be able to login, reserve a ticket for several events and receive an order message via screen while all information should be traceable in the database layer
 * User or Admin should be able to login, cancel reservation of one or several events and receive an confirmation message via screen.
-* Administrator should be able to review all the event tickets reserved fitered by provider and date with the corresponding costs and totals. Also it will include a CSV file download button
+* Administrator should be able to review all the event tickets reserved fitered by provider and date rage with the corresponding costs and totals. Also it will include a CSV file download button
 * Unit/Coverage Testing
 
 ## Time Spent
